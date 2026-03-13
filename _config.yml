@@ -1,6 +1,14 @@
+title: Evan Micheal Foster
+description: Governance architecture, public administration research, and the work behind Integrated Value Architecture.
+url: https://evanmichealfoster.com
+baseurl: ""
+
 markdown: kramdown
 theme: null
-baseurl: ""
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
 
 sass:
   sass_dir: _sass
