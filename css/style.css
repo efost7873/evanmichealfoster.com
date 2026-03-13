@@ -22,19 +22,45 @@ left:0;
 right:0;
 display:flex;
 justify-content:space-between;
-align-items:flex-start;
-padding:24px 30px;
+align-items:center;
+padding:20px 28px;
 z-index:1000;
+background:rgba(255,255,255,0.92);
+backdrop-filter:blur(10px);
 }
 
 
 /* ------------------------------ */
-/* Identity (top left) */
+/* Brand Block */
 /* ------------------------------ */
+
+.site-brand{
+display:flex;
+align-items:center;
+gap:14px;
+min-width:0;
+}
+
+.site-photo-link{
+display:block;
+text-decoration:none;
+line-height:0;
+}
+
+.site-photo{
+width:64px;
+height:64px;
+object-fit:cover;
+border-radius:50%;
+display:block;
+border:2px solid #F2A900;
+box-shadow:0 6px 18px rgba(43,38,32,0.14);
+}
 
 .site-identity{
 display:flex;
 flex-direction:column;
+min-width:0;
 }
 
 .site-name{
@@ -42,6 +68,7 @@ font-size:18px;
 font-weight:700;
 color:#2B2620;
 text-decoration:none;
+white-space:nowrap;
 }
 
 .site-name:hover{
@@ -52,6 +79,7 @@ color:#F2A900;
 font-size:13px;
 color:#B3A594;
 margin-top:2px;
+white-space:nowrap;
 }
 
 
@@ -62,6 +90,8 @@ margin-top:2px;
 .floating-nav{
 display:flex;
 gap:10px;
+flex-wrap:wrap;
+justify-content:flex-end;
 }
 
 .nav-button{
@@ -71,14 +101,16 @@ color:#2B2620;
 padding:8px 14px;
 font-size:14px;
 text-decoration:none;
-border-radius:20px;
+border-radius:999px;
 transition:all .2s ease;
+box-shadow:0 2px 10px rgba(43,38,32,0.05);
 }
 
 .nav-button:hover{
 background:#F2A900;
 border-color:#F2A900;
 color:#ffffff;
+text-decoration:none;
 }
 
 
@@ -87,9 +119,9 @@ color:#ffffff;
 /* ------------------------------ */
 
 .content{
-max-width:800px;
-margin:140px auto 80px auto;
-padding:0 20px;
+max-width:860px;
+margin:145px auto 80px auto;
+padding:0 24px;
 }
 
 
@@ -98,12 +130,18 @@ padding:0 20px;
 /* ------------------------------ */
 
 h1{
-font-size:42px;
-margin-bottom:20px;
+font-size:46px;
+line-height:1.1;
+margin:0 0 20px 0;
 }
 
 h2{
 margin-top:40px;
+}
+
+p{
+margin:0 0 20px 0;
+font-size:18px;
 }
 
 a{
@@ -122,9 +160,67 @@ text-decoration:underline;
 
 .site-footer{
 margin-top:120px;
-padding:40px;
+padding:40px 24px;
 text-align:center;
 border-top:1px solid #eee;
 color:#666;
 font-size:14px;
+}
+
+
+/* ------------------------------ */
+/* Responsive */
+/* ------------------------------ */
+
+@media (max-width:900px){
+
+.site-header{
+flex-direction:column;
+align-items:flex-start;
+gap:16px;
+padding:20px 22px;
+}
+
+.floating-nav{
+justify-content:flex-start;
+}
+
+.content{
+margin:185px auto 60px auto;
+padding:0 22px;
+}
+}
+
+@media (max-width:600px){
+
+.site-photo{
+width:56px;
+height:56px;
+}
+
+.site-name{
+font-size:16px;
+}
+
+.site-location{
+font-size:12px;
+}
+
+.nav-button{
+font-size:13px;
+padding:7px 12px;
+}
+
+.content{
+margin:185px auto 50px auto;
+padding:0 20px;
+}
+
+h1{
+font-size:36px;
+}
+
+p{
+font-size:17px;
+}
 }
