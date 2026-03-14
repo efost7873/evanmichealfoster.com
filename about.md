@@ -25,6 +25,6 @@ Alongside this work, I write and conduct research on governance architecture, fi
 
 I was also raised within the LDS Church. While my relationship with the church today is less active than it once was, that background played a role in shaping how I think about community, responsibility, and institutional life.
 
-Two Springfield Herald News police blotter listings appear online when my name is searched. These pages simply reproduce daily arrest logs. In both cases involving me, no charges were filed and the matters did not proceed to prosecution. I did nothing wrong. I do not hide those records because they exist in the public domain, but they represent a very small part of a much longer life that includes rebuilding, education, public service, and the work I continue to pursue today.
+Two Springfield Herald News police blotter listings appear online when my name is searched. These pages reproduce daily arrest logs. In both cases involving me, no charges were filed and the matters did not proceed to prosecution. I did nothing wrong. I do not hide those records because they exist in the public domain, but they represent a very small part of a much longer life that includes rebuilding, education, public service, and the work I continue to pursue today.
 
-Today I continue to live and work in Springfield, Illinois while developing Integrated Value Architecture and pursuing doctoral research at the University of Illinois Springfield.
+Today I continue to live and work in [Springfield, Illinois](/springfield/) while developing Integrated Value Architecture and pursuing doctoral research at the University of Illinois Springfield.
