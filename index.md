@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evan Micheal Foster
+title: Evan Micheal Foster | Governance Architecture Researcher | Springfield Illinois
 description: Evan Micheal Foster is a Springfield, Illinois-based researcher and founder of Integrated Value Architecture.
 ---
 
