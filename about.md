@@ -17,6 +17,12 @@ Before launching Integrated Value Architecture, Evan served as Senior Director o
 
 Evan holds a Master of Public Health and a Bachelor of Science in Biology from the University of Illinois Springfield. He is currently pursuing a Doctor of Public Administration at the University of Illinois Springfield, where his research examines financialization and resource distribution in public institutions.
 
-His broader research and writing explore the ways organizations become structurally misaligned when financial measures are treated as the only legitimate basis for authority, accountability, and decision making. That line of work led to the development of Integrated Value Architecture.
+## Areas of Work
+
+- Governance architecture
+- Financialization
+- Public administration
+- Organizational structure
+- Institutional decision making
 
 Evan lives and works in Springfield, Illinois.
