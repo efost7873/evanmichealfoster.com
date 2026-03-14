@@ -1,35 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
 
-<title>{{ page.title }} | {{ site.title }}</title>
-<meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#F2A900">
+  <meta name="msapplication-TileColor" content="#2B2620">
 
-<link rel="stylesheet" href="/css/style.css">
-
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
 
-<header class="site-header">
-<nav class="nav">
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/research/">Research</a>
-<a href="/contact/">Contact</a>
-</nav>
-</header>
+  {% include header.html %}
 
-<main class="content">
-{{ content }}
-</main>
+  <main class="content">
+    {{ content }}
+  </main>
 
-<footer class="site-footer">
-<p>© {{ site.title }}</p>
-</footer>
+  {% include footer.html %}
 
 </body>
 </html>
