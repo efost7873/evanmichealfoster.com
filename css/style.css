@@ -1,6 +1,6 @@
-/* ------------------------------ */
-/* Base Page Styles */
-/* ------------------------------ */
+/* =======================================================
+BASE PAGE STYLES
+======================================================= */
 
 body{
 margin:0;
@@ -11,9 +11,9 @@ line-height:1.65;
 }
 
 
-/* ------------------------------ */
-/* Site Header */
-/* ------------------------------ */
+/* =======================================================
+HEADER
+======================================================= */
 
 .site-header{
 position:fixed;
@@ -30,21 +30,14 @@ backdrop-filter:blur(10px);
 }
 
 
-/* ------------------------------ */
-/* Brand Block */
-/* ------------------------------ */
+/* ------------------------------
+Brand block (photo + name)
+------------------------------ */
 
 .site-brand{
 display:flex;
 align-items:center;
 gap:14px;
-min-width:0;
-}
-
-.site-photo-link{
-display:block;
-text-decoration:none;
-line-height:0;
 }
 
 .site-photo{
@@ -60,7 +53,6 @@ box-shadow:0 6px 18px rgba(43,38,32,0.14);
 .site-identity{
 display:flex;
 flex-direction:column;
-min-width:0;
 }
 
 .site-name{
@@ -68,7 +60,6 @@ font-size:18px;
 font-weight:700;
 color:#2B2620;
 text-decoration:none;
-white-space:nowrap;
 }
 
 .site-name:hover{
@@ -79,13 +70,12 @@ color:#F2A900;
 font-size:13px;
 color:#B3A594;
 margin-top:2px;
-white-space:nowrap;
 }
 
 
-/* ------------------------------ */
-/* Floating Navigation */
-/* ------------------------------ */
+/* ------------------------------
+Floating navigation buttons
+------------------------------ */
 
 .floating-nav{
 display:flex;
@@ -114,9 +104,9 @@ text-decoration:none;
 }
 
 
-/* ------------------------------ */
-/* Main Content */
-/* ------------------------------ */
+/* =======================================================
+MAIN CONTENT
+======================================================= */
 
 .content{
 max-width:860px;
@@ -125,9 +115,9 @@ padding:0 24px;
 }
 
 
-/* ------------------------------ */
-/* Typography */
-/* ------------------------------ */
+/* =======================================================
+TYPOGRAPHY
+======================================================= */
 
 h1{
 font-size:46px;
@@ -154,23 +144,87 @@ text-decoration:underline;
 }
 
 
-/* ------------------------------ */
-/* Footer */
-/* ------------------------------ */
+/* =======================================================
+FOOTER
+======================================================= */
 
 .site-footer{
 margin-top:120px;
-padding:40px 24px;
-text-align:center;
-border-top:1px solid #eee;
-color:#666;
+padding:56px 24px 40px 24px;
+border-top:1px solid #e9e2d8;
+background:#fffaf0;
+}
+
+.footer-inner{
+max-width:860px;
+margin:0 auto;
+display:grid;
+grid-template-columns:1.3fr 1fr;
+gap:32px;
+align-items:start;
+}
+
+.footer-brand{
+display:flex;
+flex-direction:column;
+gap:6px;
+}
+
+.footer-name{
+font-size:18px;
+font-weight:700;
+color:#2B2620;
+}
+
+.footer-location{
 font-size:14px;
+color:#B3A594;
+}
+
+.footer-role{
+font-size:15px;
+color:#4a433d;
+max-width:520px;
+}
+
+.footer-links{
+display:flex;
+flex-wrap:wrap;
+gap:14px 18px;
+justify-content:flex-start;
+align-content:flex-start;
+}
+
+.footer-links a{
+color:#2B2620;
+text-decoration:none;
+font-size:15px;
+font-weight:600;
+}
+
+.footer-links a:hover{
+color:#F2A900;
+text-decoration:none;
+}
+
+.footer-meta{
+grid-column:1 / -1;
+display:flex;
+justify-content:space-between;
+gap:20px;
+padding-top:8px;
+font-size:13px;
+color:#7a746d;
+}
+
+.footer-meta p{
+margin:0;
 }
 
 
-/* ------------------------------ */
-/* Responsive */
-/* ------------------------------ */
+/* =======================================================
+RESPONSIVE
+======================================================= */
 
 @media (max-width:900px){
 
@@ -189,6 +243,18 @@ justify-content:flex-start;
 margin:185px auto 60px auto;
 padding:0 22px;
 }
+
+.footer-inner{
+grid-template-columns:1fr;
+gap:24px;
+}
+
+.footer-meta{
+flex-direction:column;
+justify-content:flex-start;
+gap:8px;
+}
+
 }
 
 @media (max-width:600px){
@@ -223,4 +289,18 @@ font-size:36px;
 p{
 font-size:17px;
 }
+
+.site-footer{
+padding:48px 20px 36px 20px;
+}
+
+.footer-name{
+font-size:17px;
+}
+
+.footer-role,
+.footer-links a{
+font-size:14px;
+}
+
 }
