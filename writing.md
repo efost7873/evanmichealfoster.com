@@ -2,7 +2,7 @@
 layout: default
 title: Evan Micheal Foster | Research, Writing and Projects | Springfield, Illinois
 description: Official website of Evan Micheal Foster in Springfield, Illinois. Explore his research, writing, doctoral work, Integrated Value Architecture, articles and current projects.
-permalink: /
+permalink: /writing/
 ---
 
 # Evan Foster
