@@ -1,24 +1,22 @@
 ---
 layout: default
-title: Evan Foster Springfield IL | Evan Micheal Foster
-description: Official website of Evan Foster in Springfield, Illinois. Research, writing, professional background and current work.
+title: Evan Micheal Foster | Evan Foster Springfield, Illinois
+description: Official website of Evan Foster in Springfield, Illinois. Learn about his research, writing, professional background and the governance architecture he built to address structural failure in organizations.
 ---
 
 # Evan Foster
 
-Evan Micheal Foster is a researcher, writer and founder based in Springfield, Illinois. His work focuses on governance, financialization and the structural conditions that shape how organizations recognize and manage different forms of value.
+I am a researcher, writer and founder based in Springfield, Illinois. I built Integrated Value Architecture because I got tired of watching organizations bury important work, stretch people too far and keep acting surprised when the same problems came back worse later.
 
-This is the official website of Evan Foster. It brings together accurate information about his background, research, writing and current work. If you are searching for Evan Foster in Springfield, IL, you are in the right place.
+If you are searching for Evan Foster in Springfield, Illinois, you are in the right place. This is my official website. It brings together accurate information about my background, research, writing and current work.
 
-He is the Founder and Principal Architect of [Integrated Value Architecture](https://integratedvaluearchitecture.com), a five-ledger governance framework designed to restore structural balance across financial, operational, capacity, learning and innovation, and externalities and equity. The framework draws on public administration, accounting theory and systems thinking to address the institutional effects of financial dominance across sectors.
+I am the Founder and Principal Architect of [Integrated Value Architecture](https://integratedvaluearchitecture.com), a five-ledger governance architecture built to address a problem I kept seeing everywhere I worked. Finance had records, rules, decision rights and staying power. Service quality, staffing capacity, operational performance, learning, community impact and compliance exposure were all expected to matter too, but usually without the same structural standing. So decisions kept getting routed through finance even when the issue was operational, human or long term.
 
-Before developing Integrated Value Architecture, Evan served as Senior Director of Healthy Air Solutions at the American Lung Association, where he led national environmental health initiatives and managed multimillion-dollar programs operating across multiple states.
+Before developing Integrated Value Architecture, I served as Senior Director of Healthy Air Solutions at the American Lung Association, where I led national environmental health initiatives and managed multimillion-dollar programs operating across multiple states. Before that, I worked in the automotive industry and became a Finance Director at a car dealership in my early twenties. Across very different settings, I kept seeing the same structural problem. Smart, capable people were doing serious work inside systems that made it harder than it needed to be to act, coordinate, protect capacity or invest in what the organization would actually need later.
 
-Evan holds a Bachelor of Science in Biology and a Master of Public Health from the University of Illinois Springfield. He is currently pursuing a Doctor of Public Administration at the University of Illinois Springfield, where his research examines financialization and resource distribution in public institutions.
+I hold a Bachelor of Science in Biology and a Master of Public Health from the University of Illinois Springfield. I am currently pursuing a Doctor of Public Administration at the University of Illinois Springfield, where my research examines financialization and resource distribution in public institutions.
 
-His work sits at the intersection of research, writing and institutional design, with a focus on how governance structures influence the way organizations make decisions and allocate authority.
-
-More background is available on the [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
+My work stays focused on governance, financialization and organizational structure, especially the point where institutions say certain things matter but never give them real authority, durable records or a place to stand.
 
 ## Quick Facts
 
@@ -29,18 +27,14 @@ More background is available on the [Evan Foster Springfield, Illinois](/evan-fo
 **Research areas:** Governance, public administration, accounting, financialization and organizational structure  
 **Profiles:** [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) | [About](/about/) | [Research](/research/) | [Springfield](/springfield/) | [Contact](/contact/)
 
-## Research and Writing
+## Start here
 
-Evan’s research explores how organizations become structurally misaligned when financial accounting becomes the dominant authority within decision systems. His writing focuses on governance, public administration, financialization, institutional structure and the consequences that follow when organizations are expected to produce forms of value they are not built to recognize.
+For a fuller picture of my professional background and the personal context behind my work, visit [About](/about/).
 
-Working papers, publications and research profiles are available on the [Research](/research/) page.
+For research, publications and ongoing academic work, visit [Research](/research/).
 
-## Springfield, Illinois
+For local and professional background connected to Springfield, visit [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/).
 
-Evan lives and works in Springfield, Illinois while developing Integrated Value Architecture and pursuing doctoral research at the University of Illinois Springfield. His professional and academic work in Springfield connects research, writing and governance design across public, nonprofit and private-sector settings.
+For broader context on where I live and work, visit [Springfield](/springfield/).
 
-More information about Evan Foster in Springfield, Illinois is available on the [Springfield](/springfield/) page and the dedicated [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
-
-## Background
-
-Additional information about Evan’s background, professional history and personal context is available on the [About](/about/) page.
+For direct outreach, visit [Contact](/contact/).
