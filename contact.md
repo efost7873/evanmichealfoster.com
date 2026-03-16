@@ -11,7 +11,7 @@ I live and work in Springfield, Illinois. You can reach me here regarding resear
 
 The best way to contact me is by email.
 
-**Email:** your-email@example.com
+**Email:** [evan.foster@integratedvaluearchitecture.com](mailto:evan.foster@integratedvaluearchitecture.com)
 
 If you would prefer to schedule time directly, you can use my booking page here: [Book a conversation](https://outlook.office.com/book/IntegratedValueArchitectureLLC@integratedvaluearchitecture.com/?ismsaljsauthenabled)
 
