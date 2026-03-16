@@ -2,39 +2,21 @@
 layout: default
 title: Contact Evan Foster | Springfield, Illinois
 permalink: /contact/
-description: Contact Evan Foster in Springfield, Illinois regarding research, writing and Integrated Value Architecture.
+description: Contact Evan Foster in Springfield, Illinois regarding research, writing, speaking, governance work, projects and professional inquiries.
 ---
 
 # Contact Evan Foster
 
-I live and work in Springfield, Illinois.
+I live and work in Springfield, Illinois. You can reach me here regarding research, writing, speaking, governance work, independent projects and other professional inquiries.
 
-If you would like to contact me regarding research, writing, governance, public administration or Integrated Value Architecture, email is the best way to reach me.
+The best way to contact me is by email.
 
-**Email**  
-[evan.foster@integratedvaluearchitecture.com](mailto:evan.foster@integratedvaluearchitecture.com)
+**Email:** your-email@example.com
 
-If you are searching for Evan Foster in Springfield, IL, this page provides the best contact point for professional inquiries.
+If you would prefer to schedule time directly, you can use my booking page here: [Book a conversation](https://outlook.office.com/book/IntegratedValueArchitectureLLC@integratedvaluearchitecture.com/?ismsaljsauthenabled)
 
-## Professional Profiles
+I am especially interested in conversations with leaders, organizations and institutions dealing with structural overload, buried work, governance problems or decision systems that keep routing important responsibilities into the wrong places.
 
-**ORCID**  
-[https://orcid.org/0009-0005-8361-2495](https://orcid.org/0009-0005-8361-2495)
+It helps if your message is clear about why you are reaching out and what kind of conversation you are looking to have.
 
-**SSRN**  
-[https://ssrn.com/abstract=6050034](https://ssrn.com/abstract=6050034)
-
-**Integrated Value Architecture**  
-[https://integratedvaluearchitecture.com](https://integratedvaluearchitecture.com)
-
-## Location
-
-Springfield, Illinois
-
-## Related Pages
-
-More information about my background is available on the [About](/about/) page.
-
-More focused professional information is available on the [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
-
-Research, publications and working papers are available on the [Research](/research/) page.
+You can also learn more about my work on the [About](/about/), [Research](/research/), [Writing](/writing/) and [Projects](/projects/) pages, or through [Integrated Value Architecture](https://integratedvaluearchitecture.com).
