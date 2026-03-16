@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evan Foster Springfield IL | Evan Micheal Foster
-description: Official website of Evan Foster in Springfield, Illinois. Research, writing, professional background and current work by Evan Micheal Foster, founder of Integrated Value Architecture.
+description: Official website of Evan Foster in Springfield, Illinois. Research, writing, professional background and current work.
 ---
 
 # Evan Foster
