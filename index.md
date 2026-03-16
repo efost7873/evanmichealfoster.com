@@ -18,13 +18,16 @@ Evan holds a Bachelor of Science in Biology and a Master of Public Health from t
 
 His work sits at the intersection of research, writing and institutional design, with a focus on how governance structures influence the way organizations make decisions and allocate authority.
 
+More background is available on the [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
+
 ## Quick Facts
 
 **Based in:** Springfield, Illinois  
 **Full name:** Evan Micheal Foster  
+**Also known as:** Evan Foster  
 **Current role:** Founder and Principal Architect, Integrated Value Architecture  
 **Research areas:** Governance, public administration, accounting, financialization and organizational structure  
-**Profiles:** [About](/about/) | [Research](/research/) | [Springfield](/springfield/) | [Contact](/contact/)
+**Profiles:** [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) | [About](/about/) | [Research](/research/) | [Springfield](/springfield/) | [Contact](/contact/)
 
 ## Research and Writing
 
@@ -36,7 +39,7 @@ Working papers, publications and research profiles are available on the [Researc
 
 Evan lives and works in Springfield, Illinois while developing Integrated Value Architecture and pursuing doctoral research at the University of Illinois Springfield. His professional and academic work in Springfield connects research, writing and governance design across public, nonprofit and private-sector settings.
 
-More information about Evan Foster in Springfield, Illinois is available on the [Springfield](/springfield/) page.
+More information about Evan Foster in Springfield, Illinois is available on the [Springfield](/springfield/) page and the dedicated [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
 
 ## Background
 
