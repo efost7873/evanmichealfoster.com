@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Evan Micheal Foster | Evan Foster Springfield, Illinois
-description: Evan Micheal Foster is a founder, researcher and writer based in Springfield, Illinois. Learn more about his work in governance, financialization, public institutions, nonprofit leadership and organizational structure.
+title: Evan Foster Springfield, Illinois
+description: Evan Micheal Foster is a founder, researcher and writer in Springfield, Illinois focused on governance and organizational structure.
 permalink: /evan-foster-springfield-il/
 ---
 
