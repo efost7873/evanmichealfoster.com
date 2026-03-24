@@ -1,19 +1,21 @@
 ---
 layout: default
 title: Evan Micheal Foster | Evan Foster Springfield, Illinois
-description: Evan Micheal Foster is a researcher, writer and founder based in Springfield, Illinois. Learn more about his work, research, professional background and the projects that make up his broader portfolio.
+description: Evan Micheal Foster is a founder, researcher and writer based in Springfield, Illinois. Learn more about his work in governance, financialization, public institutions, nonprofit leadership and organizational structure.
 permalink: /evan-foster-springfield-il/
 ---
 
 # Evan Foster
 
-Evan Micheal Foster is a researcher, writer and founder based in Springfield, Illinois. His work focuses on governance, financialization and organizational structure, especially the point where institutions say certain things matter but never give them real authority, durable records or a place to stand.
+Evan Micheal Foster is a founder, researcher and writer based in Springfield, Illinois. His work focuses on governance, financialization and organizational structure, especially the point where institutions say certain things matter but never give them real authority, durable records or a place to stand.
 
 This page provides a clear overview of Evan Foster’s work, research, professional background and current projects.
 
 Evan is the Founder and Principal Architect of [Integrated Value Architecture](https://integratedvaluearchitecture.com), a five-ledger governance architecture built to address a structural problem he kept seeing across sectors. Finance had records, rules, decision rights and staying power. Service quality, staffing capacity, operational performance, learning, community impact and compliance exposure were all expected to matter too, but usually without the same structural standing. So decisions kept getting routed through finance even when the issue was operational, human or long term.
 
-Before developing Integrated Value Architecture, Evan served as Senior Director of Healthy Air Solutions at the American Lung Association, where he led national environmental health initiatives and managed multimillion-dollar programs across multiple states. Earlier in his career, he worked in the automotive industry and became a Finance Director at a car dealership in his early twenties. Across very different settings, he kept seeing the same pattern. Smart, capable people were doing serious work inside systems that made it harder than it needed to be to act, coordinate, protect capacity or invest in what the organization would actually need later.
+Before developing Integrated Value Architecture, Evan served as Senior Director of Healthy Air Solutions at the American Lung Association, where he led national environmental health initiatives and managed major program and grant portfolios across multiple states. Earlier in his career, he worked in the automotive industry and became a Finance Director at a car dealership in his early twenties. Across very different settings, he kept seeing the same pattern. Smart, capable people were doing serious work inside systems that made it harder than it needed to be to act, coordinate, protect capacity or invest in what the organization would actually need later.
+
+Evan also serves on the board of [350 Chicago](https://www.350chicago.org/meet-the-team), a nonprofit climate organization working across Chicago and Illinois. His board service adds to his background in environmental health, nonprofit governance and public problem-solving, and strengthens the connection between his work in Springfield and broader climate and civic leadership across Illinois.
 
 Evan holds a Bachelor of Science in Biology and a Master of Public Health from the University of Illinois Springfield. He is currently pursuing a Doctor of Public Administration at the University of Illinois Springfield, where his research examines financialization and resource distribution in public institutions.
 
@@ -25,12 +27,15 @@ His broader portfolio of work includes research, writing, governance architectur
 **Also known as:** Evan Foster  
 **Location:** Springfield, Illinois  
 **Current role:** Founder and Principal Architect, Integrated Value Architecture  
+**Board service:** 350 Chicago  
 **Education:** University of Illinois Springfield  
 **Research areas:** Governance, public administration, accounting, financialization and organizational structure
 
 ## Professional Background
 
 Evan’s professional background includes leadership in environmental health, governance, public problem-solving and organizational design. At the American Lung Association, he directed large-scale initiatives focused on healthy air, public health and environmental conditions affecting communities across the United States. That work involved national leadership, program oversight and management of substantial funding portfolios.
+
+He also serves on the board of [350 Chicago](https://www.350chicago.org/meet-the-team), a nonprofit climate organization working across Chicago and Illinois. That role reflects his continued involvement in mission-driven governance work and adds another layer to his experience across public health, environmental leadership and nonprofit institutions.
 
 His current work builds on those experiences through research, writing, governance architecture and other independent projects tied to structural failure, overload and institutional design.
 
