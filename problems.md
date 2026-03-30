@@ -2,7 +2,7 @@
 layout: default
 title: The Problems I Keep Seeing in Organizations | Evan Micheal Foster
 permalink: /problems/
-description: The organizational problems I keep seeing over and over: slow decisions, approval waste, weak handoffs, role confusion and plans that die after the meeting.
+description: "The organizational problems I keep seeing over and over: slow decisions, approval waste, weak handoffs, role confusion and plans that die after the meeting."
 ---
 
 # The Problems I Keep Seeing
