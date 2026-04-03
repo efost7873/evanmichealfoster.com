@@ -137,5 +137,57 @@
 
   {% include footer.html %}
 
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const dropdownGroups = [
+        Array.from(document.querySelectorAll('.nav-dropdown')),
+        Array.from(document.querySelectorAll('.footer-group'))
+      ];
+
+      dropdownGroups.forEach(function (group) {
+        group.forEach(function (detailsEl) {
+          const summary = detailsEl.querySelector('summary');
+          const links = detailsEl.querySelectorAll('a');
+
+          if (summary) {
+            summary.addEventListener('click', function () {
+              if (!detailsEl.hasAttribute('open')) {
+                group.forEach(function (otherEl) {
+                  if (otherEl !== detailsEl) {
+                    otherEl.removeAttribute('open');
+                  }
+                });
+              }
+            });
+          }
+
+          links.forEach(function (link) {
+            link.addEventListener('click', function () {
+              detailsEl.removeAttribute('open');
+            });
+          });
+        });
+      });
+
+      document.addEventListener('click', function (event) {
+        const clickedInsideAnyDropdown = event.target.closest('.nav-dropdown, .footer-group');
+
+        if (!clickedInsideAnyDropdown) {
+          document.querySelectorAll('.nav-dropdown[open], .footer-group[open]').forEach(function (openEl) {
+            openEl.removeAttribute('open');
+          });
+        }
+      });
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') {
+          document.querySelectorAll('.nav-dropdown[open], .footer-group[open]').forEach(function (openEl) {
+            openEl.removeAttribute('open');
+          });
+        }
+      });
+    });
+  </script>
+
 </body>
 </html>
