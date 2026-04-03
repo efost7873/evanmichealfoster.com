@@ -10,6 +10,12 @@ color:#2B2620;
 line-height:1.65;
 }
 
+img{
+max-width:100%;
+height:auto;
+display:block;
+}
+
 
 /* =======================================================
 HEADER
@@ -25,7 +31,7 @@ justify-content:space-between;
 align-items:center;
 padding:20px 28px;
 z-index:1000;
-background:rgba(255,255,255,0.92);
+background:rgba(255,255,255,0.94);
 backdrop-filter:blur(10px);
 border-bottom:1px solid rgba(179,165,148,0.16);
 }
@@ -52,7 +58,6 @@ width:64px;
 height:64px;
 object-fit:cover;
 border-radius:50%;
-display:block;
 border:2px solid #F2A900;
 box-shadow:0 6px 18px rgba(43,38,32,0.14);
 }
@@ -80,7 +85,7 @@ font-size:13px;
 color:#6f6457;
 margin-top:4px;
 line-height:1.35;
-max-width:560px;
+max-width:620px;
 }
 
 
@@ -218,7 +223,7 @@ MAIN CONTENT
 
 .content{
 max-width:860px;
-margin:145px auto 80px auto;
+margin:155px auto 80px auto;
 padding:0 24px;
 }
 
@@ -235,6 +240,9 @@ margin:0 0 20px 0;
 
 h2{
 margin-top:40px;
+margin-bottom:14px;
+font-size:28px;
+line-height:1.2;
 }
 
 p{
@@ -435,7 +443,7 @@ max-width:min(88vw, 340px);
 }
 
 .content{
-margin:205px auto 60px auto;
+margin:220px auto 60px auto;
 padding:0 22px;
 }
 
@@ -499,12 +507,16 @@ box-shadow:0 8px 24px rgba(43,38,32,0.08);
 }
 
 .content{
-margin:235px auto 50px auto;
+margin:240px auto 50px auto;
 padding:0 18px;
 }
 
 h1{
 font-size:36px;
+}
+
+h2{
+font-size:24px;
 }
 
 p,
