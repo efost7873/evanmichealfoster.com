@@ -4,18 +4,31 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 
   <meta name="theme-color" content="#F2A900">
   <meta name="msapplication-TileColor" content="#2B2620">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="stylesheet" href="/css/style.css">
-  
+
   <link rel="icon" type="image/png" sizes="256x256" href="/assets/images/favicon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon.png">
   <link rel="apple-touch-icon" href="/assets/images/favicon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Evan Micheal Foster">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/images/evan-micheal-foster.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/evan-micheal-foster.jpg">
 
   <script type="application/ld+json">
   {
@@ -28,8 +41,8 @@
     ],
     "url": "{{ site.url }}/",
     "image": "{{ site.url }}/assets/images/evan-micheal-foster.jpg",
+    "description": "Evan Micheal Foster is a systems builder for organizations whose work is built from how things actually work, not how they are supposed to.",
     "jobTitle": "Founder and Principal Architect",
-    "description": "Evan Foster is a researcher, writer and founder based in Springfield, Illinois. His work focuses on governance, financialization, public administration and organizational structure.",
     "homeLocation": {
       "@type": "Place",
       "name": "Springfield, Illinois"
@@ -39,11 +52,21 @@
       "name": "Integrated Value Architecture",
       "url": "https://integratedvaluearchitecture.com/"
     },
+    "memberOf": {
+      "@type": "Organization",
+      "name": "350 Chicago",
+      "url": "https://www.350chicago.org/"
+    },
     "alumniOf": [
       {
         "@type": "CollegeOrUniversity",
         "name": "University of Illinois Springfield",
         "url": "https://www.uis.edu/"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Lincoln Land Community College",
+        "url": "https://www.llcc.edu/"
       }
     ],
     "sameAs": [
@@ -54,7 +77,54 @@
     ]
   }
   </script>
-  
+
+  {% if page.permalink == '/350-chicago/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Evan Foster",
+      "alternateName": "Evan Micheal Foster",
+      "jobTitle": "Board Treasurer",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "350 Chicago",
+        "url": "https://www.350chicago.org/"
+      },
+      "url": "{{ site.url }}/350-chicago/"
+    }
+  }
+  </script>
+  {% endif %}
+
+  {% if page.permalink == '/academics/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Evan Foster",
+      "alternateName": "Evan Micheal Foster",
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Illinois Springfield",
+          "url": "https://www.uis.edu/"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Lincoln Land Community College",
+          "url": "https://www.llcc.edu/"
+        }
+      ],
+      "url": "{{ site.url }}/academics/"
+    }
+  }
+  </script>
+  {% endif %}
 </head>
 
 <body>
