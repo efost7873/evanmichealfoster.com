@@ -1,36 +1,49 @@
 <header class="site-header">
+  <div class="wrapper">
 
-  <div class="site-brand">
-    <a href="/" class="site-photo-link" aria-label="Evan Micheal Foster home">
-      <img src="/assets/images/evan-micheal-foster.jpg" alt="Portrait of Evan Micheal Foster" class="site-photo">
-    </a>
-
+    <!-- Left: Logo + Identity -->
     <div class="site-identity">
-      <a href="/" class="site-name">Evan Micheal Foster</a>
-      <div class="site-location">Springfield, Illinois</div>
-    </div>
-  </div>
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Evan Foster" />
+      </a>
 
-  <nav class="floating-nav" aria-label="Primary">
-    <a class="nav-button" href="/">Home</a>
-    <a class="nav-button" href="/about/">About</a>
-
-    <details class="nav-dropdown">
-      <summary class="nav-button">Problems I Fix</summary>
-      <div class="nav-dropdown-menu">
-        <a href="/problems/">All Problems</a>
-        <a href="/approval-bottlenecks/">What Approval Waste Actually Looks Like</a>
-        <a href="/slow-decisions-decision-rights/">Why Decisions Drag When the Answer Is Already Obvious</a>
-        <a href="/stalled-strategy-execution/">Why Plans Die After the Retreat</a>
-        <a href="/unclear-roles-duplicate-work/">What Role Confusion Looks Like in Real Work</a>
-        <a href="/silos-broken-handoffs/">What Gets Lost Between Teams</a>
+      <div class="site-tagline">
+        <span class="tagline-main">Systems Builder for Organizations</span>
+        <span class="tagline-sub">Built from how things actually work, not how they’re supposed to</span>
       </div>
-    </details>
+    </div>
 
-    <a class="nav-button" href="/research/">Research</a>
-    <a class="nav-button" href="/writing/">Writing</a>
-    <a class="nav-button" href="/projects/">Projects</a>
-    <a class="nav-button" href="/contact/">Contact</a>
-  </nav>
+    <!-- Navigation -->
+    <nav class="site-nav">
+      <ul>
 
+        <!-- About -->
+        <li class="dropdown">
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/about/' | relative_url }}">About Me</a></li>
+            <li><a href="{{ '/350-chicago/' | relative_url }}">350 Chicago</a></li>
+            <li><a href="{{ '/academics/' | relative_url }}">Academics</a></li>
+          </ul>
+        </li>
+
+        <!-- Projects -->
+        <li class="dropdown">
+          <a href="{{ '/projects/' | relative_url }}">Projects</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/projects/' | relative_url }}">All Projects</a></li>
+            <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+            <li><a href="{{ '/writing/' | relative_url }}">Writing</a></li>
+          </ul>
+        </li>
+
+        <!-- Contact -->
+        <li>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        </li>
+
+      </ul>
+    </nav>
+
+  </div>
 </header>
