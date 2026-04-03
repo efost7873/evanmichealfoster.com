@@ -2,51 +2,17 @@
 layout: default
 title: Evan Foster | Board Treasurer at 350 Chicago
 permalink: /350-chicago/
+description: Evan Foster serves as Board Treasurer at 350 Chicago, bringing financial oversight, board governance, and lived institutional experience to the role.
 ---
 
 # 350 Chicago
 
-Evan Foster serves as Board Treasurer of <a href="https://www.350chicago.org/" target="_blank" rel="noopener">350 Chicago</a>, a climate advocacy organization working across Illinois on fossil fuel divestment, public pension advocacy, and broader coalition efforts tied to the transition away from fossil fuels.
+Evan Foster serves as Board Treasurer of <a href="https://www.350chicago.org/" target="_blank" rel="noopener">350 Chicago</a>. That matters to me because I have spent years in organizations where finance gets treated like a separate lane, something people look at after the decision has already been made, after the budget has already been stretched, or after the pressure has already landed on the same few people who always end up cleaning things up. By that point, the numbers are not helping anybody. They are just explaining damage that already happened.
 
-This is not a title I list for optics.
+I have seen too many versions of that to treat this role like a ceremonial board title. Financial oversight only matters when it stays tied to the work while the work is still moving. If assumptions change, the numbers have to change with them. If a plan starts asking more of the organization than the organization can actually carry, that needs to be visible before people start pretending the gap will work itself out. If reporting stops matching reality, that has to get dealt with early instead of being cleaned up later after more time has already been wasted. That is how I think about this role, and it is how I approach it.
 
-I am responsible for financial oversight at the board level. That means reviewing what is actually happening in the numbers, not just what gets presented cleanly, and staying close enough to decisions that money, staffing, and program work do not drift into separate conversations.
+Part of that comes from my time working in national nonprofit environments where budgets, grant conditions, reporting, and operational pressure were all pulling on the same work at once. I do not need to turn that into a public war story to say what it taught me. I watched what happens when decisions move farther away from the people doing the work, get handled by people carrying too much distance from the actual problem, and come back down as more edits, more delay, or more cleanup for somebody else. The titles change. The sector changes. The loop does not. That experience sharpened how I think about finance, not as a scoreboard and not as a veto point, but as one of the places where reality has to stay attached to decisions if the organization is going to stay honest about what it can do.
 
-I’ve seen what happens when they do.
+That is one reason this role fits me. At 350 Chicago, finance is part of a larger mission-driven organization working across Illinois on climate and environmental issues, including fossil fuel divestment, public pension advocacy, and broader coalition work tied to the transition away from fossil fuels. Work like that carries real pressure because mission does not magically fix structure. People still get overloaded. Decisions can still drift upward. The same few people can still end up carrying too much because everything important starts passing through the same point. I have seen that happen in enough places to know that good intentions do not protect an organization from bad load-bearing design.
 
-At the American Lung Association, I spent years inside federal grant work where budgets, reporting, and compliance were constant pressure points. Decisions would move up a chain, sit with people farther from the work, and come back down with edits that didn’t match reality. Work got redone. Timelines slipped. The same people kept fixing problems they didn’t create.
-
-You can call that a process issue if you want. It isn’t. It’s where authority sits.
-
-That same pattern shows up in board governance when finance becomes either a rubber stamp or a bottleneck.
-
-Budgets get approved and then ignored until something breaks.  
-Funding decisions get separated from the work they are supposed to support.  
-Numbers get treated like a summary instead of a live constraint.
-
-I don’t operate that way.
-
-Budgets get revisited when assumptions break.  
-Financial position stays tied to decisions while there is still time to adjust.  
-If something doesn’t match what is actually happening, it gets questioned before it turns into a larger problem someone else has to clean up.
-
-The goal is simple. Keep the organization moving and make sure the numbers actually mean something while it is moving.
-
-That work sits directly alongside what I do through <a href="https://integratedvaluearchitecture.com/" target="_blank" rel="noopener">Integrated Value Architecture</a>.
-
-I’ve spent years watching organizations where too much decision authority and too much work land in the same place. Finance is usually one of those places, but not because finance is the problem. It’s because everything gets forced through it.
-
-Then everything slows down.
-
-Work stacks up.  
-Approvals drag.  
-People closest to the work wait on people farther from it.  
-And the same issues come back again because nothing in the structure actually changed.
-
-I built my work around fixing that at the structural level.
-
-This role puts me inside it in real time, where those pressures show up in actual decisions instead of theory, and where financial oversight either keeps the organization grounded or quietly makes the problem worse depending on how it is handled.
-
-I’ve seen both.
-
-I know which one I’m there to do.
+That is also part of what led me to build <a href="https://integratedvaluearchitecture.com/" target="_blank" rel="noopener">Integrated Value Architecture</a>. I did not build that work because I wanted a prettier vocabulary for organizational problems. I built it because I kept seeing the same structural pattern in different places, where too much authority and too much work kept landing in the same few hands until everything slowed down around them. My role at 350 Chicago puts me inside those same pressures in a live board setting where financial oversight can either keep the organization grounded in what is actually true or quietly make the same old problems worse. I have seen both versions. I know which one I am there to do.
