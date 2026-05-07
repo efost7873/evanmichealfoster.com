@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Common Problems | IVA
-permalink: /common-problems-we-fix/
-redirect_to: https://ivasolution.com/
+title: Problems | IVA
+permalink: /problems/
 sitemap: false
 ---
 
