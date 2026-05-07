@@ -41,16 +41,21 @@
     ],
     "url": "{{ site.url }}/",
     "image": "{{ site.url }}/assets/images/evan-micheal-foster.jpg",
-    "description": "Evan Micheal Foster is a systems builder for organizations whose work is built from how things actually work, not how they are supposed to.",
-    "jobTitle": "Founder and Principal Architect",
+    "description": "Evan Micheal Foster is a founder, writer, researcher, doctoral student and board treasurer based in Springfield, Illinois.",
+    "jobTitle": "Founder",
     "homeLocation": {
       "@type": "Place",
       "name": "Springfield, Illinois"
     },
     "worksFor": {
       "@type": "Organization",
-      "name": "Integrated Value Architecture",
-      "url": "https://integratedvaluearchitecture.com/"
+      "name": "IVA",
+      "url": "https://ivasolution.com/"
+    },
+    "founder": {
+      "@type": "Organization",
+      "name": "IVA",
+      "url": "https://ivasolution.com/"
     },
     "memberOf": {
       "@type": "Organization",
@@ -73,7 +78,7 @@
       "https://orcid.org/0009-0005-8361-2495",
       "https://ssrn.com/abstract=6050034",
       "https://www.linkedin.com/in/evan-micheal-foster/",
-      "https://integratedvaluearchitecture.com/"
+      "https://ivasolution.com/"
     ]
   }
   </script>
@@ -173,14 +178,6 @@
         const clickedInsideAnyDropdown = event.target.closest('.nav-dropdown, .footer-group');
 
         if (!clickedInsideAnyDropdown) {
-          document.querySelectorAll('.nav-dropdown[open], .footer-group[open]').forEach(function (openEl) {
-            openEl.removeAttribute('open');
-          });
-        }
-      });
-
-      document.addEventListener('keydown', function (event) {
-        if (event.key === 'Escape') {
           document.querySelectorAll('.nav-dropdown[open], .footer-group[open]').forEach(function (openEl) {
             openEl.removeAttribute('open');
           });
