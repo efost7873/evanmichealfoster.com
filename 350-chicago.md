@@ -1,18 +1,40 @@
 ---
 layout: default
-title: Evan Foster | Board Treasurer at 350 Chicago
+title: 350 Chicago | Evan Foster Board Treasurer
 permalink: /350-chicago/
-description: Evan Foster serves as Board Treasurer at 350 Chicago, where financial oversight stays tied to real board decisions, organizational capacity and governance.
+description: Evan Foster serves as Board Treasurer of 350 Chicago, with work focused on financial oversight, reporting, governance, capacity and nonprofit sustainability.
 ---
 
 # 350 Chicago
 
-Evan Foster serves as Board Treasurer of <a href="https://www.350chicago.org/" target="_blank" rel="noopener">350 Chicago</a>. That role matters to me because I have spent enough time in organizations to know that finance only helps when it stays tied to the work while the work is still moving. Once the numbers become something people look at after the decision has already been made, after the budget has already been stretched or after the pressure has already landed on the same few people who always end up cleaning things up, finance is not helping anybody. It is just explaining damage that already happened.
+I serve as Board Treasurer of 350 Chicago.
 
-I do not treat this like a ceremonial board title. Financial oversight matters when it keeps the organization honest about what it can actually carry while there is still time to adjust. If assumptions change, the numbers have to change with them. If funding, staffing or program pressure starts pulling in a different direction, that needs to be visible before people start pretending the gap will solve itself. If reporting stops matching reality, that has to get dealt with early instead of getting cleaned up later after more time has already been wasted. That is how I think about this role, and it is how I approach it.
+That role keeps me close to the real work of nonprofit governance. Budgets, reporting, commitments, cash flow, board decisions, staff capacity and strategic priorities all meet in the same place. They do not wait politely for perfect systems.
 
-Part of that comes from years spent in environments where budgets, reporting, grant conditions and operational pressure were all pulling on the same work at once. I worked in national nonprofit leadership at the American Lung Association, and while I am not interested in turning public pages into internal war stories, the lesson was not subtle. I watched what happens when decisions move farther away from the people doing the work, get handled by people carrying too much distance from the actual problem, and come back down as more edits, more delay or more cleanup for somebody else. The titles change. The sector changes. The loop does not. That experience sharpened how I think about finance, not as a scoreboard and not as a veto point, but as one of the places where reality has to stay attached to decisions if an organization is going to stay honest about what it can do.
+## Treasurer Work
 
-That is one reason this role fits me. 350 Chicago’s work across Illinois on climate and environmental issues, including fossil fuel divestment, public pension advocacy and broader coalition work tied to the transition away from fossil fuels, carries real pressure because mission does not magically fix structure. People still get overloaded. Decisions can still drift upward. The same few people can still end up carrying too much because everything important starts passing through the same point. I have seen that happen in enough places to know that good intentions do not protect an organization from bad load-bearing design.
+The treasurer role is not just reviewing numbers after the fact. It means helping the board understand what the organization can commit to, what the timing of money actually allows, where reporting obligations sit, and how financial decisions affect real capacity.
 
-That is also part of what led me to build <a href="https://integratedvaluearchitecture.com/" target="_blank" rel="noopener">Integrated Value Architecture</a>. I did not build that work because I wanted a prettier vocabulary for organizational problems. I built it because I kept seeing the same structural pattern in different places, where too much authority and too much work kept landing in the same few hands until everything slowed down around them. My role at 350 Chicago puts me inside those same pressures in a live board setting where financial oversight can either keep the organization grounded in what is actually true or quietly make the same old problems worse. I have seen both versions. I know which one I am there to do.
+That matters in any nonprofit, but it matters even more when an organization works with limited staff, changing funding timing, volunteer energy and urgent mission pressure.
+
+## Capacity and Governance
+
+One of the hardest nonprofit problems is that people often see the need before the structure can support the work.
+
+The board may want growth. Staff may already be carrying too much. Funding may arrive on one timeline while expenses show up on another. Reporting may satisfy one requirement while creating extra work somewhere else.
+
+Good governance means seeing those pressures clearly enough to make decisions before the organization quietly burns through the people doing the work.
+
+## Why This Role Matters
+
+350 Chicago gives me a live setting where governance is not theoretical.
+
+Every financial conversation has operational consequences. Every capacity decision affects people. Every commitment creates work somewhere. Every delayed decision has a cost, even if it does not show up immediately in the budget.
+
+That is the same pattern I care about in my research and IVA work. Finance matters, but finance cannot be the only way an organization sees itself.
+
+## Related Work
+
+My board service connects to my broader work on organizational value, internal governance, public administration and capacity.
+
+For more on that work, visit [IVA](https://ivasolution.com/), [Research](/research/) or [Projects](/projects/).
