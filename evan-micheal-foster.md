@@ -1,46 +1,56 @@
 ---
 layout: default
-title: Evan Foster Springfield, Illinois | Research, Writing, Governance and Board Service
-description: Evan Micheal Foster is a systems builder for organizations based in Springfield, Illinois. Learn more about his work in governance, research, writing, board service and Integrated Value Architecture.
-permalink: /evan-foster-springfield-il/
+title: Evan Micheal Foster | Springfield, Illinois
+permalink: /evan-micheal-foster/
+description: Evan Micheal Foster is the founder of IVA, a doctoral student, writer, researcher, board treasurer, husband and father based in Springfield, Illinois.
 ---
 
-# Evan Foster
+# Evan Micheal Foster
 
-Evan Micheal Foster is a systems builder for organizations based in Springfield, Illinois. His work sits at the intersection of governance, research, writing, nonprofit board service and organizational structure, but that is the cleaned-up version. The real version is that he has spent years inside environments where decisions keep moving farther from the people doing the work, the same few people keep cleaning up the consequences, and institutions keep acting like the pattern is surprising even when everybody in the room already knows exactly what is happening.
+I am Evan Micheal Foster. I live in Springfield, Illinois with my family.
 
-That is the context behind his current work. Evan is the Founder and Principal Architect of [Integrated Value Architecture](https://integratedvaluearchitecture.com), a governance architecture built from watching too much work and too much decision authority land in the same few places until everything starts slowing down around them. He did not build it because he wanted a cleaner theory. He built it because he kept seeing the same structural failure show up across sectors, where finance often became the default home for every hard choice simply because it was the only place with a real ledger, real standing and durable decision force.
+I am the founder of [IVA](https://ivasolution.com/), a Doctor of Public Administration student at the University of Illinois Springfield, Board Treasurer of [350 Chicago](/350-chicago/), a writer, a researcher, a husband and a father.
 
-Before building Integrated Value Architecture, Evan worked in environments that gave him direct exposure to how institutions actually behave under pressure. Early in his career, he became a Finance Director in the automotive industry. Later, his path moved through biology, public health, healthcare-adjacent work, environmental health leadership, government and nonprofit governance. In national nonprofit leadership, he worked close enough to budgets, reporting, grants and operating pressure to keep seeing the same pattern repeat itself in a different professional accent. The titles changed. The loop did not.
+Most of my work focuses on the same recurring pattern. Institutions give people responsibility without enough authority, evidence or capacity to actually change the thing they are responsible for. Then the consequences show up as overload, rework, delayed decisions, financial pressure, staff frustration and quiet resignation.
 
-Evan also serves as Board Treasurer of [350 Chicago](/350-chicago/), a climate organization working across Illinois. That role matters because it keeps him inside a live board setting where financial oversight, organizational capacity and mission-driven work all have to stay connected to each other in real time. It also strengthens the link between his public health background, his nonprofit governance work and the broader institutional questions that run through everything else he is building.
+## Founder of IVA
 
-His academic path matters here too because it was not clean, and that is part of why it says something real. Lincoln Land Community College was where the academic side of his life started to turn. He studied business administration there, was in the Honors Program and joined Phi Theta Kappa. He later earned a Bachelor of Science in Biology with a pre-medicine emphasis and a Master of Public Health from the University of Illinois Springfield, and he is now in the Doctor of Public Administration program there studying how federal tax policy reinforces financialization across sectors. More of that story is on the [Academics](/academics/) page because the sequence matters more than a tidy degree list.
+IVA is the applied work I built from that pattern.
 
-His broader body of work includes research, public writing, governance architecture and longer-term projects, including *Always Over Capacity*, a book project built around overload, structural failure and the way important work keeps getting routed into the wrong places. Across all of it, the common thread is the same. He is interested in the point where what people know is happening and what the structure lets them do stop matching.
+IVA focuses on operational value, decision systems, reporting structures, workflows, evidence, capacity and the places where organizations lose value before finance sees it.
 
-## Quick Facts
+The work is designed for organizations that need more than another dashboard, workshop or alignment exercise. People and functions protect incentives. IVA starts there instead of pretending everyone naturally moves toward the same goal because the slide deck said so.
 
-**Name:** Evan Micheal Foster  
-**Also known as:** Evan Foster  
-**Location:** Springfield, Illinois  
-**Current role:** Founder and Principal Architect, Integrated Value Architecture  
-**Board service:** Board Treasurer, 350 Chicago  
-**Education:** Lincoln Land Community College and University of Illinois Springfield  
-**Research areas:** Governance, financialization, public administration, organizational structure and institutional design
+## Academic Work
 
-## Learn More
+I am a Doctor of Public Administration student at the University of Illinois Springfield.
 
-For broader personal and professional background, visit [About](/about/).
+My dissertation work focuses on how federal tax policy reinforces financialization across sectors. That research examines how financial logic becomes embedded in institutions and starts shaping what organizations treat as legitimate value.
 
-For the academic path through Lincoln Land, UIS and current doctoral work, visit [Academics](/academics/).
+I also hold a Master of Public Health and a Bachelor of Science in Biology with a pre-medicine emphasis from UIS.
 
-For board service and nonprofit governance work, visit [350 Chicago](/350-chicago/).
+## Board Service
 
-For research, publications and working papers, visit [Research](/research/).
+As Board Treasurer of 350 Chicago, I work on financial oversight, governance, reporting and capacity.
 
-For essays and public-facing writing, visit [Writing](/writing/).
+That role keeps the questions practical. What can the organization actually support? What commitments are already on the table? What does cash timing allow? What work will a board decision create for staff? What does the budget fail to show?
 
-For current builds and side work, visit [Projects](/projects/).
+## Personal Context
+
+I am married to Michelle, and I am a father. Oregon, Illinois still carries a deep personal pull for me. It is where Michelle and I got married, and it remains part of how I think about home, memory and peace.
+
+There is also a harder layer underneath my urgency. A neurodegenerative disease has moved through my family. I do not need that to become a headline, but it shaped how I think about time, children, risk and the responsibility to build something that matters while I can.
+
+## Start Here
+
+For the broader personal story, visit [About](/about/).
+
+For academic background, visit [Academics](/academics/).
+
+For research, visit [Research](/research/).
+
+For public writing, visit [Writing](/writing/).
+
+For current work, visit [Projects](/projects/).
 
 For direct outreach, visit [Contact](/contact/).
