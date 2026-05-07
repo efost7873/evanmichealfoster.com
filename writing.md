@@ -1,40 +1,51 @@
 ---
 layout: default
-title: Writing by Evan Foster | Articles, Essays and Public Writing
+title: Writing | Evan Micheal Foster
 permalink: /writing/
-description: Writing by Evan Foster on governance, financialization, structural overload, public administration and organizational life.
+description: Writing by Evan Micheal Foster on organizational value, overload, public administration, financialization, family, place and institutional life.
 ---
 
-# Writing by Evan Foster
+# Writing
 
-I write about governance, financialization, structural overload and the gap between what institutions claim to value and what they are actually built to protect.
+I write about organizations, overload, financialization, public administration, governance, family, place and the parts of life that do not fit cleanly into professional language.
 
-Some of that writing is academic. Some of it is public-facing. Some of it sits in between. The common thread is the same. I am interested in what happens when organizational structure quietly decides what counts, what gets delayed, what gets defended and what gets left to people to carry without real authority behind them.
+Most of my writing starts from a concrete condition. A staff member rebuilding a report because the evidence lives in three systems. A manager carrying responsibility without authority. A board trying to make financial decisions without enough operational context. A family adjusting its sense of time because illness changed the background.
 
-Writing is one of the main ways I develop ideas in public. It is where I test arguments, sharpen language and make structural problems easier to see without pretending they are just leadership issues, communication issues or planning issues.
+The subjects vary, but the underlying question is usually the same. What is the structure asking people to carry, and who had the authority to design it differently?
 
-This page will continue to grow over time as I publish more essays, articles and longer-form work.
+## What I Write About
 
-## Current Writing Areas
+I write about how institutions behave when pressure increases. I write about the difference between responsibility and authority. I write about why organizations often cut people before they remove the processes that created the workload.
 
-### Governance and financialization
+I also write about family, place and time because those things shape how I see the work. Oregon, Illinois still matters to me. Springfield is where I live and work now. My family is not a side note to my professional life. They are part of why the work has urgency.
 
-I write about the way financial logic becomes the default authority inside organizations, even when institutions are expected to protect many other forms of value at the same time.
+A disease that has moved through my family also sits underneath some of that urgency. I do not need every piece of writing to explain it directly, but I am not interested in pretending time is abstract.
 
-### Structural overload
+## Writing Style
 
-I write about why important work keeps piling up in the wrong places, why good people stay over capacity and why better effort usually does not solve a structural problem.
+I try to write plainly. If I understand something, I should be able to explain it without hiding behind technical language.
 
-### Organizational design and authority
+That does not mean making the ideas smaller. It means making the mechanism visible.
 
-I write about how decisions move, where authority sits, what gets buried and what happens when institutions expect outcomes they are not actually built to support.
+The best writing, at least for me, names what happened, who had authority, what changed, what it cost, and why the pattern keeps repeating.
 
-### Public-facing essays and longer projects
+## Current Themes
 
-My writing also includes broader public-facing work, including essays and book-length projects that develop these ideas for a wider audience.
+Current themes include:
 
-## In Development
+- Organizational overload
+- Internal governance
+- Financial dominance
+- Public administration
+- Board finance
+- Decision rights
+- Capacity loss
+- Workflows and evidence
+- Family and time
+- Place, memory and obligation
 
-This page is being expanded to include published articles, essays, commentary and longer-form writing projects.
+## Related Work
 
-In the meantime, more information about my research is available on the [Research](/research/) page, more about my book project is available on [Always Over Capacity](/always-over-capacity/), and more about my broader work is available on the [About](/about/) page.
+Some writing connects directly to [IVA](https://ivasolution.com/). Some connects to my doctoral work. Some connects to board service, family history, or the pressure of trying to build something useful while life keeps reminding you that time is not unlimited.
+
+For research-focused work, visit [Research](/research/). For the book project, visit [Always Over Capacity](/always-over-capacity/).
