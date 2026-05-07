@@ -1,55 +1,64 @@
 ---
 layout: default
-title: Research by Evan Foster | Governance, Financialization and Public Administration
+title: Research | Evan Micheal Foster
 permalink: /research/
-description: Research and writing by Evan Foster on governance, financialization, public administration and the structural problems that shape organizational decision-making.
+description: Research by Evan Micheal Foster on financialization, public administration, internal governance, organizational value and decision structures.
 ---
 
-# Research by Evan Foster
+# Research
 
-I write and conduct research on governance, financialization, public administration and organizational structure. My work focuses on what happens when institutions say certain things matter but never give them real authority, durable records or a place to stand inside the structure.
+My research focuses on financialization, public administration, internal governance, organizational value and the way institutions decide what counts as legitimate evidence.
 
-I am currently pursuing a Doctor of Public Administration at the University of Illinois Springfield. My doctoral research examines financialization and resource distribution in public institutions, especially the point where financial measures become the main authoritative ledger for organizational decision-making.
+The common thread is financial dominance. Not finance as a necessary function. Finance is necessary. The issue is what happens when financial logic becomes the internal authority that other forms of value must pass through before they are treated as real.
 
-That problem reaches well beyond one sector. Public institutions, nonprofits and private organizations are often expected to protect multiple forms of value at the same time, including service quality, staffing capacity, long-term resilience, learning, equity and external impact. But when only one system has formal authority, those other forms of value are easier to delay, harder to defend and more likely to lose ground when pressure builds.
+That pattern does not stay abstract for long. It affects staffing. It affects reporting. It affects public programs. It affects nonprofit capacity. It affects what leaders protect and what staff are expected to absorb.
 
-My research is interested in what that does to decision-making, overload, resource distribution and institutional behavior over time.
+## Current Doctoral Work
 
-## Current Research Focus
+My dissertation work at the University of Illinois Springfield examines how federal tax policy reinforces financialization across sectors.
 
-My current work examines how financialization shapes governance structure and resource allocation in public institutions. I am especially interested in the conditions that allow one system of value to dominate organizational decision-making even when institutions are being asked to produce much more than financial performance alone.
+That means I am looking at how public policy can strengthen financial logics inside organizations and markets, even when the stated policy goal is broader than financial return.
 
-That includes work on:
+The research question matters because organizations do not make decisions in a vacuum. Policy creates incentives. Incentives shape internal rules. Internal rules shape what people can actually do.
 
-- financialization in public institutions
-- governance structure and authority
-- resource distribution
-- organizational overload
-- plural value recognition
-- institutional decision systems
+## Working Papers
 
-This research also informs the development of [Integrated Value Architecture](https://integratedvaluearchitecture.com), a five-ledger governance architecture built to address the structural failure that develops when one system becomes the default authority for every important decision.
+### Internal Governance Monopoly
 
-## Working Paper
+This work examines how organizations can drift toward single-domain internal authority, where one form of value effectively governs the others by default.
 
-**Beyond Financial Dominance**
+The practical consequence is familiar. One function protects its own rules while other teams absorb the cost. Leaders may still talk about enterprise priorities, but the operating structure tells people which value actually wins.
 
-*Beyond Financial Dominance* examines the consequences of financialization across sectors and the conditions that keep reinforcing it.
+SSRN Abstract ID: 6444178
 
-Available on [SSRN](https://ssrn.com/abstract=6050034)
+### Beyond Financial Dominance
 
-## Research Profiles
+This work examines how financial logic becomes a dominant internal governance mechanism across organizations and sectors.
 
-**ORCID**  
-[0009-0005-8361-2495](https://orcid.org/0009-0005-8361-2495)
+The point is not that financial information is bad. The point is that financial information becomes dangerous when it is allowed to stand in for organizational value as a whole.
 
-**SSRN**  
-[Beyond Financial Dominance on SSRN](https://ssrn.com/abstract=6050034)
+SSRN Abstract ID: 6050034
 
-## Related Pages
+## Research Interests
 
-For broader background and personal context, visit the [About](/about/) page.
+My research interests include:
 
-For articles, essays and public-facing writing, visit the [Writing](/writing/) page.
+- Financialization
+- Public administration
+- Federal tax policy
+- Internal governance
+- Organizational value
+- Decision rights
+- Institutional capacity
+- Evidence systems
+- Nonprofit and public-sector operations
 
-For a clearer professional profile tied to my name and location, visit the [Evan Foster Springfield, Illinois](/evan-foster-springfield-il/) page.
+I am especially interested in the point where formal goals and operating authority stop matching. That is where institutions start producing results nobody claims to want.
+
+## Public Use
+
+Research should not stay trapped in language that only works inside coursework, journals or conference panels. I care about explaining serious ideas plainly enough that people can actually use them.
+
+That is part of why IVA exists. The academic side helps name the pattern. The applied side helps organizations see it in their own workflows, reporting structures, approvals and decision systems.
+
+For the applied work, visit [IVA](https://ivasolution.com/). For essays and public-facing analysis, visit [Writing](/writing/).
