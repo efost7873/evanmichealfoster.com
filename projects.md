@@ -1,36 +1,48 @@
 ---
 layout: default
-title: Projects by Evan Foster | Independent Work and Current Builds
+title: Projects | Evan Micheal Foster
 permalink: /projects/
-description: Independent projects by Evan Foster, including apps, tools, governance work and other current builds across research, writing and product development.
+description: Current projects from Evan Micheal Foster, including IVA, research, writing, board service and public-facing work.
 ---
 
-# Projects by Evan Foster
+# Projects
 
-My work is not limited to research and governance architecture. I also build independent projects across writing, tools, apps and other practical ideas that reflect the same habits of thought behind the rest of my work.
+My current projects sit across applied work, research, writing and board service. They look different on the surface, but they all come back to the same pressure point: how institutions create, hide, protect or lose value.
 
-Some projects are closely connected to governance, structure and decision-making. Others are more personal or product-oriented. What ties them together is the same instinct I bring to everything else. I pay attention to patterns, friction, what gets overlooked and what people quietly adapt to even when it is making life or work worse than it needs to be.
+## IVA
 
-This page brings those projects together in one place.
+[IVA](https://ivasolution.com/) is my primary applied project.
 
-## Current Projects
+IVA helps organizations identify where operational value is being delayed, duplicated, protected or lost across workflows, approvals, reporting structures, handoffs and decision systems.
 
-### Integrated Value Architecture
+The work is not built around alignment language. People and functions protect incentives, workloads, budgets, reporting obligations and authority. IVA starts from that reality instead of pretending shared goals automatically solve structural problems.
 
-[Integrated Value Architecture](https://integratedvaluearchitecture.com) is the largest and most developed project in my portfolio. It is a five-ledger governance architecture built to address structural failure inside organizations when finance becomes the default home for every important decision, unresolved tradeoff and unowned form of value.
+## Doctoral Research
 
-### Sleepytime and related apps
+My doctoral work at the University of Illinois Springfield focuses on how federal tax policy reinforces financialization across sectors.
 
-I am also building independent app-based projects, including Sleepytime and related ideas. These projects sit outside my governance work, but they come from the same broader drive to build things that are useful, thoughtful and worth carrying forward.
+That research examines how policy, incentives and institutional structures shape what organizations treat as valuable, legitimate and worth protecting.
 
-### Writing and long-form work
+## Public Writing
 
-Some of my projects take the form of writing instead of software or formal architecture. That includes essays, working papers and my book project, *Always Over Capacity*.
+My writing gives me a place to work through the same patterns in public.
 
-## Why these projects belong together
+I write about organizations, overload, public administration, financialization, board finance, family, place and the consequences people carry when structures are badly designed.
 
-I do not think of research, writing, governance architecture and product development as separate identities. They are different expressions of the same underlying way of thinking. I notice patterns quickly. I care about structure. I care about what people have to live inside. And I am more interested in building something real than performing expertise inside systems that never fix the actual problem.
+## Board Service
 
-This page will continue to expand as more projects move into public view.
+As Board Treasurer of [350 Chicago](/350-chicago/), I work on financial oversight, reporting, capacity and governance questions inside a live nonprofit environment.
 
-For more about my research, visit [Research](/research/). For more about my broader background and how I think, visit [About](/about/).
+That role matters because board finance is not just numbers. It is also timing, commitments, constraints, staff capacity, cash basis reporting, grant obligations and whether decision-makers can see enough to act responsibly.
+
+## Always Over Capacity
+
+[Always Over Capacity](/always-over-capacity/) is a book project about overload, institutional pressure and the conditions that keep asking people to carry more than the structure can actually support.
+
+The project is personal and institutional at the same time. That is the point. Overload is not only a workplace issue. It shows up in family life, health, money, memory and time.
+
+## What Connects the Work
+
+I am not trying to build a scattered portfolio of unrelated projects. I am trying to understand and expose the recurring point where responsibility, authority, evidence and value stop lining up.
+
+That point appears in organizations. It appears in public policy. It appears in board rooms. It appears in families. It appears when people keep adapting to structures that should have been changed long before they reached the breaking point.
